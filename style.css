@@ -1,0 +1,83 @@
+header {
+    padding: 20px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: fantasy;
+    color: rgb(20,19,17);
+}
+
+#story {
+    background: url("https://i.pinimg.com/originals/4f/67/00/4f6700a2501c1760d8a81e7d69f50b75.jpg");
+    background-size:cover ;
+}    
+#story p {
+    padding:10px;
+    margin:20px;
+    text-align: center;
+    font-family: cursive;
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic; 
+    color:rgb(6, 25, 109);
+}
+
+#form  {
+    padding: 20px 50px;
+    margin-top: 50px;
+    background-color: rgb(241, 243, 248);
+    font-family: Montserrat, sans-serif;
+    font-size: large;
+    font-weight: 900;
+    color: rgb(20,19,17);
+}
+#form form {
+    padding: 20px 50px;
+    font-family: Montserrat, sans-serif;
+    font-size: large; 
+    font-weight: 600;
+}
+
+a {
+    color: rgb(20, 19, 17);
+}
+a:visited {
+    color:orange;
+}
+a:hover {
+    color: rgb(23, 92, 196);
+}
+
+.radiobuton {
+    display: block;
+    padding-left: 40px;
+    font-size: medium;
+}
+
+#end {
+    background-color: rgb(230, 230, 230);
+    padding: 50px;
+    font-family: Montserrat, sans-serif;
+    font-size: large;
+}
+#end button {
+    color:rgb(23, 92, 196);
+    font-family: Montserrat,sans-serif;
+    font-size: medium;
+    font-weight: 600;
+    padding: 10px;
+    margin-left: 20px;
+}
+#end select {
+    padding: 10px;
+    margin-left: 20px;
+    font-size: medium;
+    font-family: Montserrat,sans-serif;
+}
+
+footer {
+    padding: 50px;
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: rgb(241, 243, 248);
+}
